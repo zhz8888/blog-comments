@@ -4,6 +4,6 @@
 
 ### 博客地址
 
-主站（Cloudflare Pages）：https://blog.zhz8888playground.us.kg, https://blog-c5t.pages.dev
+主站（Cloudflare Pages）：https://blog.zhz8888playground.dpdns.org, https://blog-c5t.pages.dev
 
-备站（Vercel）：https://blog-alpha-teal.vercel.app, https://blog-bak.zhz8888playground.us.kg
+备站（Vercel）：https://blog-alpha-teal.vercel.app
